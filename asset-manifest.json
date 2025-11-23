@@ -1,27 +1,22 @@
 {
   "files": {
     "main.css": "/reactbuild/static/css/main.c37fa50e.css",
-    "main.js": "/reactbuild/static/js/main.d09f52ea.js",
+    "main.js": "/reactbuild/static/js/main.2b9fe18f.js",
     "static/js/453.5c696679.chunk.js": "/reactbuild/static/js/453.5c696679.chunk.js",
     "static/media/career04.png": "/reactbuild/static/media/career04.94c1276ee0fdc474ab17.png",
     "static/media/career01.png": "/reactbuild/static/media/career01.91047794575ff485fcd6.png",
     "static/media/career03.png": "/reactbuild/static/media/career03.b3d8e24ced90d90a6b42.png",
     "static/media/career06.png": "/reactbuild/static/media/career06.b2791fa592277d87b2ec.png",
-    "static/media/semi02.png": "/reactbuild/static/media/semi02.a57381450a24da84ee06.png",
     "static/media/career02.png": "/reactbuild/static/media/career02.7e7463261f8b0a47ddd1.png",
-    "static/media/semi03.png": "/reactbuild/static/media/semi03.8b2503ab98b0e562fb49.png",
-    "static/media/semi04.png": "/reactbuild/static/media/semi04.d46f912504e815e7a01c.png",
     "static/media/career05.png": "/reactbuild/static/media/career05.b99d42caef9126f5fd45.png",
-    "static/media/semi01.png": "/reactbuild/static/media/semi01.352d9986e16bab691be4.png",
-    "static/media/semi05.png": "/reactbuild/static/media/semi05.d2fd2cc06f26dff86bc3.png",
     "static/media/heejin.png": "/reactbuild/static/media/heejin.dc3d904cb91693de9e2d.png",
     "index.html": "/reactbuild/index.html",
     "main.c37fa50e.css.map": "/reactbuild/static/css/main.c37fa50e.css.map",
-    "main.d09f52ea.js.map": "/reactbuild/static/js/main.d09f52ea.js.map",
+    "main.2b9fe18f.js.map": "/reactbuild/static/js/main.2b9fe18f.js.map",
     "453.5c696679.chunk.js.map": "/reactbuild/static/js/453.5c696679.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c37fa50e.css",
-    "static/js/main.d09f52ea.js"
+    "static/js/main.2b9fe18f.js"
   ]
 }
